@@ -1,4 +1,4 @@
-# 🛠 One File to Rule Them All  
+# 💍One File to Rule Them All 🔥
 
 A Python script to scan a project and aggregate all `.py` files into a structured JSON file.  
 This helps with AI-assisted development, refactoring, and automated code analysis.  
